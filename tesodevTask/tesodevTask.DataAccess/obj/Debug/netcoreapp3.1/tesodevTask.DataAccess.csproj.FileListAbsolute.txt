@@ -1,0 +1,15 @@
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\bin\Debug\netcoreapp3.1\tesodevTask.DataAccess.deps.json
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\bin\Debug\netcoreapp3.1\tesodevTask.DataAccess.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\obj\Debug\netcoreapp3.1\tesodevTask.DataAccess.AssemblyInfoInputs.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\obj\Debug\netcoreapp3.1\tesodevTask.DataAccess.AssemblyInfo.cs
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\obj\Debug\netcoreapp3.1\tesodevTask.DataAccess.csprojAssemblyReference.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\bin\Debug\netcoreapp3.1\tesodevTask.Entities.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\bin\Debug\netcoreapp3.1\tesodevTask.DataAccess.runtimeconfig.json
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\bin\Debug\netcoreapp3.1\tesodevTask.DataAccess.runtimeconfig.dev.json
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\bin\Debug\netcoreapp3.1\tesodevTask.DataAccess.pdb
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\bin\Debug\netcoreapp3.1\tesodevTask.Entities.pdb
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\obj\Debug\netcoreapp3.1\tesodevTask.DataAccess.csproj.CopyComplete
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\obj\Debug\netcoreapp3.1\tesodevTask.DataAccess.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\obj\Debug\netcoreapp3.1\tesodevTask.DataAccess.pdb
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\obj\Debug\netcoreapp3.1\tesodevTask.DataAccess.genruntimeconfig.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.DataAccess\obj\Debug\netcoreapp3.1\tesodevTask.DataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\bin\Debug\netcoreapp3.1\tesodevTask.Entities.deps.json
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\bin\Debug\netcoreapp3.1\tesodevTask.Entities.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\bin\Debug\netcoreapp3.1\tesodevTask.Entities.pdb
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\obj\Debug\netcoreapp3.1\tesodevTask.Entities.csprojAssemblyReference.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\obj\Debug\netcoreapp3.1\tesodevTask.Entities.AssemblyInfoInputs.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\obj\Debug\netcoreapp3.1\tesodevTask.Entities.AssemblyInfo.cs
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\obj\Debug\netcoreapp3.1\tesodevTask.Entities.csproj.CoreCompileInputs.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\obj\Debug\netcoreapp3.1\tesodevTask.Entities.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Entities\obj\Debug\netcoreapp3.1\tesodevTask.Entities.pdb

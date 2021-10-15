@@ -1,0 +1,14 @@
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\bin\Debug\netcoreapp3.1\tesodevTask.Business.deps.json
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\bin\Debug\netcoreapp3.1\tesodevTask.Business.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\bin\Debug\netcoreapp3.1\tesodevTask.Business.pdb
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\bin\Debug\netcoreapp3.1\tesodevTask.DataAccess.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\bin\Debug\netcoreapp3.1\tesodevTask.Entities.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\bin\Debug\netcoreapp3.1\tesodevTask.DataAccess.pdb
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\bin\Debug\netcoreapp3.1\tesodevTask.Entities.pdb
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\obj\Debug\netcoreapp3.1\tesodevTask.Business.csprojAssemblyReference.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\obj\Debug\netcoreapp3.1\tesodevTask.Business.AssemblyInfoInputs.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\obj\Debug\netcoreapp3.1\tesodevTask.Business.AssemblyInfo.cs
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\obj\Debug\netcoreapp3.1\tesodevTask.Business.csproj.CoreCompileInputs.cache
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\obj\Debug\netcoreapp3.1\tesodevTask.Business.csproj.CopyComplete
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\obj\Debug\netcoreapp3.1\tesodevTask.Business.dll
+D:\Users\UMUT\source\repos\tesodevTask\tesodevTask.Business\obj\Debug\netcoreapp3.1\tesodevTask.Business.pdb
